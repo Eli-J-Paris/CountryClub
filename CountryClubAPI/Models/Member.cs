@@ -10,5 +10,6 @@
         public string Telephone { get; set; }
         public int? RecommendedBy { get; set; }
         public DateTime JoinDate { get; set; }
+        //public string Status { get; set; }
     }
 }
